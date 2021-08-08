@@ -6,7 +6,8 @@
 
 [poor-blog🔗 ](https://blog.csdn.net/Little_person)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zest-bridge&count_private=true&theme=radical">
+<img alt="visitor badge" src="https://github-readme-stats.vercel.app/api?username=zest-bridge&count_private=true&theme=radical">
+
 <!--
 **zest-bridge/zest-bridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
